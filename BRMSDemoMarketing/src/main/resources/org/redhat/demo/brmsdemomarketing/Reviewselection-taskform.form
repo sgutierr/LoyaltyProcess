@@ -1,0 +1,53 @@
+
+<form id="905528689">
+<property name="name" value="Reviewselection-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1145577821">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;dequot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;enquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;esquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;frquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;jaquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;ptquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;zhquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="2101255052" type="CheckBox" id="2101255052">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;font-weight:bold;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;CheckBox1quot;quot;esquot;,quot;Create another Action Groupquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="2" name="clientsSelected_clients" bag-type="org.redhat.demo.brmsdemomarketing.Client" type="MultipleSubform" id="2023039773">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;clients (clientsSelected)quot;quot;esquot;,quot; quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="clientsSelected_In/clients"/>
+<property name="outputBinding" value="clientsSelected_Out/clients"/>
+<property name="defaultSubform" value="ClientShortForm.form"/>
+<property name="previewSubform" value="ClientShortForm.form"/>
+<property name="tableSubform" value="ClientShortForm.form"/>
+<property name="newItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="addItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="cancelItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="deleteItems" value="false"/>
+<property name="updateItems" value="false"/>
+<property name="visualizeItems" value="false"/>
+<property name="hideCreateItem" value="true"/>
+<property name="expanded" value="false"/>
+<property name="enableTableEnterData" value="false"/>
+<property name="fieldClass" value="java.util.List"/>
+</field>
+<dataHolder inputId="capacity_In" name="#9BCAFA" type="dataModelerEntry" outId="capacity_Out" value="org.redhat.demo.brmsdemomarketing.Capacity" id="capacity"/>
+<dataHolder inputId="clientsSelected_In" name="#E9E371" type="dataModelerEntry" outId="clientsSelected_Out" value="org.redhat.demo.brmsdemomarketing.ClientsToCampaign" id="clientsSelected"/>
+</form>

@@ -1,0 +1,120 @@
+
+<form id="747940973">
+<property name="name" value="Manualselections-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1967067972">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;dequot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;enquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;esquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;frquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;jaquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;ptquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;zhquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="capacityForm_lastMtoPrevFilter" type="InputText" id="1275363666">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;font-weight:bold;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;lastMtoPrevFilter (capacityForm)quot;quot;esquot;,quot;LastMTOPrevquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="14"/>
+<property name="rangeFormula" value="{1,None;Menos de 6 Meses,Menos de 6 Meses;Entre 6 y 12 Meses,Entre 6 y 12 Meses;Entre 12 y 18 Meses,Entre 12 y 18 Meses;Más de 18 Meses,Más de 18 Meses}"/>
+<property name="maxlength" value="14"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="capacityFormIn/lastMtoPrevFilter"/>
+<property name="outputBinding" value="capacityFormOut/lastMtoPrevFilter"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="capacityForm_regionFilter" type="InputText" id="917590746">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;font-weight:bold;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;regionFilter (capacityForm)quot;quot;esquot;,quot;Regionquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="14"/>
+<property name="rangeFormula" value="{1,None;CENTRO ESN,CENTRO ESN;ANDALUCIA,ANDALUCIA;NORTE ZONA 3,NORTE ZONA 3;NORTE ZONA 4,NORTE ZONA 4}"/>
+<property name="maxlength" value="14"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="capacityFormIn/regionFilter"/>
+<property name="outputBinding" value="capacityFormOut/regionFilter"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="capacityForm_localSubtypeFilter" type="InputText" id="1703549187">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;font-weight:bold;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;localSubtypeFilter (capacityForm)quot;quot;esquot;,quot;Subtypequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="14"/>
+<property name="rangeFormula" value="{1,None;GENERAL,GENERAL;NAVE INDUSTRIAL,NAVE INDUSTRIAL;BAR-RESTAURANTE,BAR-RESTAURANTE;OFICINA,OFICINA;JOYERIA,JOYERIA}"/>
+<property name="maxlength" value="14"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="capacityFormIn/localSubtypeFilter"/>
+<property name="outputBinding" value="capacityFormOut/localSubtypeFilter"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name=":decorator_1" type="Separator" id="1984657204">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="cssStyle" value="width:500px;"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="5" name="capacityForm_assignation" type="InputText" id="1035834189">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;font-weight:bold;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;assignation (capacityForm)quot;quot;esquot;,quot;Assign actionquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{Llamada Comercial,Llamada Comercial;Visita Tecnica Preventiva,Visita Tecnica Preventiva;Visita Comercial,Visita Comercial}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="capacityFormIn/assignation"/>
+<property name="outputBinding" value="capacityFormOut/assignation"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name=":decorator_2" type="Separator" id="265851941">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="cssStyle" value="width:500px;"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="7" name="clientToCamp_clients" bag-type="org.redhat.demo.brmsdemomarketing.Client" type="MultipleSubform" id="1871459837">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;clients (clientToCamp)quot;quot;esquot;,quot; quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="clientToCampIn/clients"/>
+<property name="outputBinding" value="clientToCampOut/clients"/>
+<property name="defaultSubform" value="ClientForm.form"/>
+<property name="previewSubform" value="ClientForm.form"/>
+<property name="tableSubform" value="ClientForm.form"/>
+<property name="newItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="addItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="cancelItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="deleteItems" value="false"/>
+<property name="updateItems" value="false"/>
+<property name="visualizeItems" value="false"/>
+<property name="hideCreateItem" value="true"/>
+<property name="expanded" value="false"/>
+<property name="enableTableEnterData" value="false"/>
+<property name="fieldClass" value="java.util.List"/>
+</field>
+<dataHolder inputId="capacityFormIn" name="#FF54A7" type="dataModelerEntry" outId="capacityFormOut" value="org.redhat.demo.brmsdemomarketing.Capacity" id="capacityForm"/>
+<dataHolder inputId="clientToCampIn" name="#FF8881" type="dataModelerEntry" outId="clientToCampOut" value="org.redhat.demo.brmsdemomarketing.ClientsToCampaign" id="clientToCamp"/>
+</form>

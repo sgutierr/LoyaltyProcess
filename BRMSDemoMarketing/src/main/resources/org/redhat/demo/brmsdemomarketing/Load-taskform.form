@@ -1,0 +1,166 @@
+
+<form id="1197013614">
+<property name="name" value="Load-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="1" name=":decorator_0" type="HTMLLabel" id="909722268">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;quot;dequot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;quot;enquot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;quot;esquot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;quot;frquot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;quot;jaquot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;quot;ptquot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;quot;zhquot;,quot;&lt;h3&gt;&lt;big&gt;Loyalty process configuration&lt;/big&gt;&lt;/h3&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="2" name=":decorator_3" type="HTMLLabel" id="1618750185">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;quot;dequot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;quot;enquot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;quot;esquot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;quot;frquot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;quot;jaquot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;quot;ptquot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;quot;zhquot;,quot;&lt;h3&gt;&lt;strong&gt;Capacity variables&lt;/strong&gt;&lt;/h3&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="3" name="cap_maxActionNumbers" type="InputTextInteger" id="234289452">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Max. actionsquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="6"/>
+<property name="maxlength" value="6"/>
+<property name="inputBinding" value="capIn/maxActionNumbers"/>
+<property name="outputBinding" value="capOut/maxActionNumbers"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="4" name="cap_budget" type="InputTextInteger" id="807870156">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Budgetquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="6"/>
+<property name="maxlength" value="6"/>
+<property name="inputBinding" value="capIn/budget"/>
+<property name="outputBinding" value="capOut/budget"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="5" name="cap_automatic" type="CheckBox" id="1650748449">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Automaticquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="capIn/automatic"/>
+<property name="outputBinding" value="capOut/automatic"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="6" name=":decorator_1" type="Separator" id="643969780">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="styleclass" value="idth:500px;"/>
+<property name="cssStyle" value="width:500px;"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="7" name=":decorator_2" type="HTMLLabel" id="1662726037">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;quot;dequot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;quot;enquot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;quot;esquot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;quot;frquot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;quot;jaquot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;quot;ptquot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;quot;zhquot;,quot;&lt;h3&gt;&lt;strong&gt;Actions subtype&lt;/strong&gt;&lt;/h3&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="8" name="cap_actionType" bag-type="org.redhat.demo.brmsdemomarketing.ActionType" type="MultipleSubform" id="2075327057">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Actionsquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="capIn/actionType"/>
+<property name="outputBinding" value="capOut/actionType"/>
+<property name="defaultSubform" value="ActionTypeForm.form"/>
+<property name="previewSubform" value="ActionTypeForm.form"/>
+<property name="tableSubform" value="ActionTypeForm.form"/>
+<property name="newItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;New actionquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="addItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;New Actionquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="cancelItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot; Cancel Actionquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="deleteItems" value="true"/>
+<property name="updateItems" value="true"/>
+<property name="visualizeItems" value="false"/>
+<property name="hideCreateItem" value="false"/>
+<property name="expanded" value="false"/>
+<property name="enableTableEnterData" value="false"/>
+<property name="fieldClass" value="java.util.List"/>
+</field>
+<field position="9" name=":decorator_4" type="Separator" id="300634976">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="cssStyle" value="width:500px;"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="10" name=":decorator_5" type="HTMLLabel" id="1290129608">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;quot;dequot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;quot;enquot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;quot;esquot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;quot;frquot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;quot;jaquot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;quot;ptquot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;quot;zhquot;,quot;&lt;h3&gt;&lt;strong&gt;Filters&lt;/strong&gt;&lt;/h3&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="11" name="cap_lastMtoPrevFilter" type="InputText" id="1556625679">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;lastMtoPrevFilter (cap)quot;quot;esquot;,quot;Last MTO Prevquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{1,None;Menos de 6 Meses,Menos de 6 Meses;Entre 6 y 12 Meses,Entre 6 y 12 Meses;Entre 12 y 18 Meses,Entre 12 y 18 Meses;Más de 18 Meses,Más de 18 Meses}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="capIn/lastMtoPrevFilter"/>
+<property name="outputBinding" value="capOut/lastMtoPrevFilter"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name="cap_localSubtypeFilter" type="InputText" id="519558511">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;localSubtypeFilter (cap)quot;quot;esquot;,quot;Local subtypequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{1,None;GENERAL,GENERAL;NAVE INDUSTRIAL,NAVE INDUSTRIAL;BAR-RESTAURANTE,BAR-RESTAURANTE;OFICINA,OFICINA;JOYERIA,JOYERIA}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="capIn/localSubtypeFilter"/>
+<property name="outputBinding" value="capOut/localSubtypeFilter"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="Region" type="InputText" id="500235014">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;regionFilter (cap)quot;quot;esquot;,quot;Regionquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{1,None;CENTRO ESN,CENTRO ESN;ANDALUCIA,ANDALUCIA;NORTE ZONA 3,NORTE ZONA 3;NORTE ZONA 4,NORTE ZONA 4}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="capIn/regionFilter"/>
+<property name="outputBinding" value="capOut/regionFilter"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name=":decorator_6" type="HTMLLabel" id="237182718">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;dequot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;enquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;esquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;frquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;jaquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;ptquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;quot;zhquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt;
+quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<dataHolder inputId="capIn" name="#0000A0" type="dataModelerEntry" outId="capOut" value="org.redhat.demo.brmsdemomarketing.Capacity" id="cap"/>
+</form>

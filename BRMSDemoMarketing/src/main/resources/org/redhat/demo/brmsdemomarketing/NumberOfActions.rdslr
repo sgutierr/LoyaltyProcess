@@ -1,0 +1,12 @@
+package org.redhat.demo.brmsdemomarketing;
+
+import java.lang.Number;
+
+rule "NumberOfActions"
+	dialect "mvel"
+	ruleflow-group "loyalty"
+	when
+		>cap : Capacity( maxActionNumbers <= ( actionsCount ) )
+	then
+		Finalizar ejecucion
+end

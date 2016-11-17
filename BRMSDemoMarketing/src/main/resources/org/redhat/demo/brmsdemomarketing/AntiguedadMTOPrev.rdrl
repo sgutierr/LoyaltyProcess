@@ -1,0 +1,18 @@
+package org.redhat.demo.brmsdemomarketing;
+
+import java.lang.Number;
+
+rule "AntiguedadMTOPrev"
+	dialect "mvel"
+	no-loop true
+	lock-on-active true
+	ruleflow-group "loyalty"
+	when
+		CUSTOMER : Client( antiquity >= 120 , lastMTOPrev == "Entre 12 y 18 Meses" || lastMTOPrev == "Más de 18 Meses" )
+		capacity : Capacity( )
+	then
+		CUSTOMER.addAction( "Llamada Comercial" );
+		modify( capacity ) {
+				setActionsCount( capacity.getActionsCount()+1 )
+		}
+end

@@ -1,0 +1,70 @@
+
+<form id="1150961618">
+<property name="name" value="BRMSDemoMarketing.LoyaltyProcess-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="721906918">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;dequot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;enquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;esquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;frquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;jaquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;ptquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;quot;zhquot;,quot;&lt;p&gt;&lt;img alt=&quot;Logo Prosegur&quot; height=&quot;56&quot; src=&quot;http://localhost:8080/business-central/images/logo-prosegur-alarmas.png&quot; width=&quot;149&quot; /&gt;&lt;/p&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name=":decorator_1" type="Separator" id="935169141">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="cssStyle" value="width:300px;"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="2" name="capacity_budget" type="InputTextInteger" id="1014191560">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Budgetquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="6"/>
+<property name="maxlength" value="6"/>
+<property name="inputBinding" value="capacity/budget"/>
+<property name="outputBinding" value="capacity/budget"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="3" name="capacity_maxActionNumbers" type="InputTextInteger" id="272993146">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;font-weight:bold;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Max Actions quot;quot;esquot;,quot;Max Actions &quot;Llamada Comercial&quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="5"/>
+<property name="maxlength" value="5"/>
+<property name="inputBinding" value="capacity/maxActionNumbers"/>
+<property name="outputBinding" value="capacity/maxActionNumbers"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="4" name=":decorator_2" type="Separator" id="731517468">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="cssStyle" value="width:300px;"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="5" name="capacity_automatic" type="CheckBox" id="220273590">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Selection process automatic?quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="capacity/automatic"/>
+<property name="outputBinding" value="capacity/automatic"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="capacity" name="#B29FE4" type="dataModelerEntry" outId="capacity" value="org.redhat.demo.brmsdemomarketing.Capacity" id="capacity"/>
+</form>

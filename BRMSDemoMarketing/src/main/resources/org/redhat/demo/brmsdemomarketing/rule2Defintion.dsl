@@ -1,0 +1,5 @@
+[when] Clientes con antiguedad menor que {num} = client:Client(antiquity<{num})
+[when] Clientes con panel igual a {panel} = Client(panel=="{panel}")
+[when] Clientes con ultimo MTO previsto {lastMTO} = Client(lastMTOPrev=="{lastMTO}")
+[then] Asginamos Visita Comercial = client.addAction("Visita Comercial")
+[then] Finalizar ejecucion = drools.halt()

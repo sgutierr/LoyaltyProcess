@@ -1,0 +1,5 @@
+'Client.lastMTOPrev' : ['Entre 12 y 18 Meses','Menos de 6 Meses','Entre 6 y 12 Meses','Más de 18 Meses']
+'Client.lastMTORev' : ['Entre 12 y 18 Meses','Menos de 6 Meses','Entre 6 y 12 Meses','Más de 18 Meses']
+'ActionType.description' : ['Llamada Comercial','Visita Tecnica Preventiva','Visita Comercial']
+'Client.localSubtype' : ['GENERAL','NAVE INDUSTRIAL','BAR-RESTAURANTE','OFICINA','JOYERIA']
+'Client.parentComercialRegion' : ['CENTRO ESN','ANDALUCIA','NORTE ZONA 3','NORTE ZONA 4']
